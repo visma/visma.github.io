@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.visma.citywalker",
+      "sha256_cert_fingerprints": [
+        "F7:61:BF:B7:04:5A:15:F1:C9:D8:66:39:91:74:86:56:EB:99:27:FB:C4:EA:19:18:05:8F:F4:0B:FD:A8:88:54",
+        "20:FF:A3:12:D3:81:8A:B5:D0:7D:B4:6A:C7:F3:44:89:B1:40:FB:E3:12:B9:17:63:A0:FD:F7:81:CE:9A:1C:1E"
+      ]
+    }
+  }
+]
